@@ -1,6 +1,6 @@
-# Mental Health Analytics using Machine Learning
+# Mental Health Analytics using Natural Language Processing
 
-The Mental Health Analytics App is a Streamlit-based application designed to help mental health specialists in urban areas quickly understand their patients' mental health, particularly those in inaccessible rural areas. This tool bridges the gap between rural patients and therapists in urban centers by providing insights into patient moods, recurring thought patterns, and categorized concerns.
+The Mental Health Analytics App is a Streamlit-based application designed to help mental health specialists in urban areas quickly understand their patients' mental health, particularly those in inaccessible rural areas. This tool bridges the gap between rural patients and therapists in urban centres by providing insights into patient moods, recurring thought patterns, and categorized concerns.
 
 ---
 
