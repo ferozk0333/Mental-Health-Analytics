@@ -10,12 +10,13 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
 - Allows users to share their thoughts and moods through text.
 - **Basic Version**:
   - Performs sentiment analysis (Positive, Negative, Neutral) and generates multiple analytics.
+  - Self-trained model using Logistic Regression.
 - **Pro Version**:
   - Performs multi-emotion classification using a pre-trained DistilBERT model.
   - Visualizes emotion distribution over time.
 
 ### 2. **Cognitive Corrections**
-- Classifies recurring thoughts into 7 predefined categories such as:
+- Uses Multimodal Naive Bayes classifier to classify recurring thoughts into 7 predefined categories such as:
   - **Family**, **Finance**, **Relationships**, **Abuse**, **Health**, **Employment**, **Education**.
 - Tracks and visualizes recurring themes over time to highlight areas of concern.
 
