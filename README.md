@@ -54,3 +54,6 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
    ```
 
 ---
+
+### **Features in Development**
+- Regional Language Support: Support local languages to cater to a broader audience.
