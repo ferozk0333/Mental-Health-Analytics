@@ -37,7 +37,7 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ferozk0333/Mental-Health-Analytics-Using-NLP.git
+   git clone https://github.com/ferozk0333/Mental-Health-Analytics-using-NLP.git
    cd Mental-Health-Analytics
    ```
 2. Create Virtual Environment:
