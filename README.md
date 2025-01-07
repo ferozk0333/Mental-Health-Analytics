@@ -20,7 +20,7 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
   - **Family**, **Finance**, **Relationships**, **Abuse**, **Health**, **Employment**, **Education**.
 - Tracks and visualizes recurring themes over time to highlight areas of concern.
 
-### 3. **PDF Report Generation**
+### 3. **Report Generation**
 - Generates a consolidated PDF report for therapists, including:
   - Mood trends and emotion distribution.
   - Categorized thought patterns.
