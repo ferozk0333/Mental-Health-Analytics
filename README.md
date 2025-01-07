@@ -32,7 +32,6 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
 ### Prerequisites
 - Python 3.8+
 - Git
-- Virtual Environment (optional but recommended)
 
 ### Steps
 1. Clone the repository:
