@@ -8,10 +8,10 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
 
 ### 1. **Write Your Mood**
 - Allows users to share their thoughts and moods through text.
-- **Basic Version**:
+A. **Basic Version**:
   - Performs sentiment analysis (Positive, Negative, Neutral) and generates multiple analytics.
   - Self-trained model using Logistic Regression.
-- **Pro Version**:
+B. **Pro Version**:
   - Performs multi-emotion classification using a pre-trained DistilBERT model.
   - Visualizes emotion distribution over time.
 
