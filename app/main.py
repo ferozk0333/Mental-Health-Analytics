@@ -2,6 +2,7 @@ import streamlit as st
 import sys, os
 # Add the project's root directory to sys.path - resolving path 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from utils.database import log_sentiment, fetch_sentiment_logs_with_time, get_connection
 
 # Import the modules
 from app.generate_report import generate_report
@@ -49,6 +50,9 @@ def main():
             st.success("Report generated successfully!")
         except Exception as e:
             st.error(f"Failed to generate the report: {e}")
+    
+
+
 
 
 

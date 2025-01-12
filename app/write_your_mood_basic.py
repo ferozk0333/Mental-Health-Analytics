@@ -16,9 +16,9 @@ import pandas as pd
 
 
 # Download NLTK musts
-nltk.download('punkt')
-nltk.download('wordnet')
-nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('wordnet')
+# nltk.download('stopwords')
 
 # Load trained model and vectorizer
 with open('models/sentiment_model.pkl', 'rb') as f:
@@ -54,7 +54,7 @@ def calculate_mean_time(logs, sentiment_type):
     sentiment_data = logs[logs['sentiment'] == sentiment_type]
     if not sentiment_data.empty:
         try:
-            # Ensure 'time' column is of proper format
+            # Ensure 'time' column is of propr format
             sentiment_data['time'] = pd.to_timedelta(sentiment_data['time'])
             mean_time = sentiment_data['time'].mean()
             return (pd.Timestamp("1900-01-01") + mean_time).time()  # Convert to time format
