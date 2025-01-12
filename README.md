@@ -56,6 +56,6 @@ The Mental Health Analytics App is a Streamlit-based application designed to hel
 
 ---
 
-### **Future Enhancement ideas**
-- Adulteration detection by integrating sensors to detect liquid adulteration.
-- Capturing meal distribution using CCTV to capture meal contents on the plate and student's face.
+
+### **Future Enhancement Ideas**
+- Regional Language Support: Support local languages to cater to a broader audience.
